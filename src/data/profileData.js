@@ -32,13 +32,13 @@ export const profileData = {
       type: 'github',
       label: 'GitHub',
       username: 'pranathi2296',
-      url: 'https://github.com/pranathi2296',
+      url: 'https://github.com/saipranathi2296',
     },
     {
       type: 'linkedin',
       label: 'LinkedIn',
       username: 'pranathi',
-      url: 'https://www.linkedin.com/in/pranathi',
+      url: 'https://www.linkedin.com/in/pranathi-vavilala-0384b5338/',
     },
     {
       type: 'gfg',
